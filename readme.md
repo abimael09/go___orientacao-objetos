@@ -1,7 +1,5 @@
-# Go OO - Aula 5 - "Interface e novo tipo de conta"
-> Código da Alura cursos online
+# Linguagem Go POO
 
-![](/go_alura_logo.png)
-
+<p>Trabalhando com Linguagem GO na Orientação a Objetos.</p>
 
 
